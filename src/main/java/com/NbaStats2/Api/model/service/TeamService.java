@@ -1,4 +1,4 @@
-package com.NbaStats2.Api.service;
+package com.NbaStats2.Api.model.service;
 
 
 import com.NbaStats2.Api.model.Player;

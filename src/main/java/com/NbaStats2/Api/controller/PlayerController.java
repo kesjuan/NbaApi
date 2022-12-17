@@ -1,7 +1,7 @@
 package com.NbaStats2.Api.controller;
 
 
-import com.NbaStats2.Api.service.PlayerService;
+import com.NbaStats2.Api.model.service.PlayerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

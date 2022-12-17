@@ -24,8 +24,8 @@ public class ScheduledService {
 
 
 
-    @Scheduled(fixedRate = 2000000) public void scheduledTask(){
-        System.out.println("Scheduling");
-    }
+//    @Scheduled(fixedRate = 2000000) public void scheduledTask(){
+//        System.out.println("Scheduling");
+//    }
 
 }
